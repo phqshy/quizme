@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rp76xCN7pCbaGeEe/LJgtYHJhD3pN3CbUv1Ki2RzF74+c2Mkm2geF1MBURt3JF8Z595R2O41OYpQeR7JNX9v8A==",
+  "success": true,
+  "projectFilePath": "/home/phishyemperor/wpf testing/wpf testing.csproj",
+  "expectedPackageFiles": [
+    "/home/phishyemperor/.nuget/packages/htmlagilitypack/1.11.43/htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}

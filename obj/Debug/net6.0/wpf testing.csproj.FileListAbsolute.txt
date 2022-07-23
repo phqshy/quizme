@@ -1,0 +1,17 @@
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/wpf testing
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/wpf testing.deps.json
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/wpf testing.runtimeconfig.json
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/wpf testing.dll
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/wpf testing.pdb
+/home/phishyemperor/wpf testing/bin/Debug/net6.0/HtmlAgilityPack.dll
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.csproj.AssemblyReference.cache
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.AssemblyInfoInputs.cache
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.AssemblyInfo.cs
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.csproj.CoreCompileInputs.cache
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.csproj.CopyComplete
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.dll
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/refint/wpf testing.dll
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.pdb
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/wpf testing.genruntimeconfig.cache
+/home/phishyemperor/wpf testing/obj/Debug/net6.0/ref/wpf testing.dll
